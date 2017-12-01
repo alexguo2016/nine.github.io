@@ -22,7 +22,7 @@
 		}
 	</style>
 	<script src="nine.js" ></script>
-	<!--ÏìÓ¦Ê½²¼¾Ö-->
+	<!--å“åº”å¼å¸ƒå±€-->
 <meta name="viewport" content="width=device-width, initial-scale=1" />  
 </head>
 <body >
@@ -37,7 +37,7 @@
 	<div class="diamond"></div>
 	<div class="diamond"></div>
 </div>
-<button type="button" class="btns" onclick="beginMsg()">¿ªÊ¼ÉÁ</button>
-<button type="button" class="btns" onclick="endMsg()">½áÊøÉÁ</button>
+<button type="button" class="btns" onclick="beginMsg()">å¼€å§‹é—ª</button>
+<button type="button" class="btns" onclick="endMsg()">ç»“æŸé—ª</button>
 </body>
 </html>
