@@ -38,7 +38,7 @@ function reset(){
 function beginMsg () {
 	// body...
 	if(blingId==0){
-		blingId=setInterval(bling_bling,1000/4);
+		blingId=setInterval(bling_bling,1000);
 	}
 	
 	//console.log(action);
